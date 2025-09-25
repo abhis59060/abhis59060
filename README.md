@@ -79,7 +79,9 @@ Web App Security (OWASP Top 10) | Threat Intelligence | SIEM | Vulnerability Ass
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhis59060&theme=radical)  
 
 ---
+## 🎯 CTF & Cybersecurity Profiles  
 
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/abhishekti16798.png)](https://tryhackme.com/p/abhishekti16798)  
 ## 🎓 Certifications  
 
 - TryHackMe: Cyber Security 101, Pre-Security, Introduction to Cybersecurity  
