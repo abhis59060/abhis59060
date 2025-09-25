@@ -1,4 +1,4 @@
-# Hi there, I'm Abhishek 👋  
+# Hi there, I'm Abhishek
 
 🔐 **Security Enthusiast | MCA Cybersecurity | Web Pentester in Making**
 
