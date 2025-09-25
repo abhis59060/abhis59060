@@ -9,19 +9,40 @@ Currently exploring **Incident Response, API Security, and Open Source Security 
 
 ## 🛠️ Skills & Tools  
 
-**💻 Programming & Scripting:**  
+**💻 Programming & Scripting**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+
+**🔒 Security Tools & Platforms**  
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)  
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)  
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
 ![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)  
+
+**🖥️ Operating Systems**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+
+**🌐 Networking**  
+![TCP/IP](https://img.shields.io/badge/TCP/IP-007396?style=for-the-badge&logoColor=white)  
+![DNS](https://img.shields.io/badge/DNS-FF6F00?style=for-the-badge&logoColor=white)  
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP/HTTPS-005571?style=for-the-badge&logoColor=white)  
+![OSI Model](https://img.shields.io/badge/OSI_Model-FF5733?style=for-the-badge&logoColor=white)  
+
+**📊 Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-CC0000?style=for-the-badge&logo=oracle&logoColor=white)  
+
+**🗂️ Version Control**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 
 **🔒 Security Tools & Techniques:**  
