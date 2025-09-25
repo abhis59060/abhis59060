@@ -82,6 +82,13 @@ Web App Security (OWASP Top 10) | Threat Intelligence | SIEM | Vulnerability Ass
 ## 🎯 CTF & Cybersecurity Profiles  
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/abhishekti16798.png)](https://tryhackme.com/p/abhishekti16798)  
+
+- 🏆 **Rank:** Top 5% (73,604)  
+- 🎖️ **Badges Earned:** 15  
+- 🚪 **Rooms Completed:** 90+  
+
+💡 Actively practicing penetration testing, web app security, and SOC challenges on TryHackMe.  
+
 ## 🎓 Certifications  
 
 - TryHackMe: Cyber Security 101, Pre-Security, Introduction to Cybersecurity  
