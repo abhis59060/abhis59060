@@ -80,7 +80,7 @@ Web App Security (OWASP Top 10) | Threat Intelligence | SIEM | Vulnerability Ass
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/abhishekti16798.png)](https://tryhackme.com/p/abhishekti16798)  
 
-- 🏆 **Rank:** Top 5% (73,604)  
+- 🏆 **Rank:** Top 4% (73,604)  
 - 🎖️ **Badges Earned:** 15  
 - 🚪 **Rooms Completed:** 90+  
 
