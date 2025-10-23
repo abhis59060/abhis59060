@@ -51,7 +51,7 @@ Web App Security (OWASP Top 10) | Threat Intelligence | SIEM | Vulnerability Ass
 
 ## 📂 Featured Projects  
 
-🔑 [**Secure File Encryption Tool**](https://github.com/abhis59060/encryption)  
+🔑 [**Secure File Encryption Tool**](https://github.com/abhis59060/File_encryption_decryption.git)  
 *Encrypt & decrypt files securely with AES-256 and SHA-256 hashing. Built with Python + Flask.*  
 
 🌐 [**Network Traffic Analyzer**](https://github.com/abhis59060/Network_analyzer)  
