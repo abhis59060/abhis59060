@@ -63,9 +63,6 @@ Web App Security (OWASP Top 10) | Threat Intelligence | SIEM | Vulnerability Ass
 📊 **Secure Student Management Dashboard (Private Repo)**  
 *Role-based access control (RBAC) system built using React + Tailwind CSS.*  
 
-⚡ **Web Vulnerability Scanning Platform (Private Repo)**  
-*Python + React-based tool for automated website vulnerability scanning.*  
-
 ---
 
 ## 📈 GitHub Stats  
