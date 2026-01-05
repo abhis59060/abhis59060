@@ -27,12 +27,11 @@ Currently exploring **Incident Response, API Security, and Open Source Security 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 
 **🌐 Networking**  
-![TCP/IP](https://img.shields.io/badge/TCP/IP-007396?style=for-the-badge&logoColor=white) ![DNS](https://img.shields.io/badge/DNS-FF6F00?style=for-the-badge&logoColor=white)  
+![TCP/IP](https://img.shields.io/badge/TCP/IP-007396?style=for-the-badge&logoColor=white) ![DNS](https://img.shields.io/badge/DNS-FF6F00?style=for-the-badge&logoColor=white) 
 ![HTTP/HTTPS](https://img.shields.io/badge/HTTP/HTTPS-005571?style=for-the-badge&logoColor=white) ![OSI Model](https://img.shields.io/badge/OSI_Model-FF5733?style=for-the-badge&logoColor=white)  
 
 **📊 Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-CC0000?style=for-the-badge&logo=oracle&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-CC0000?style=for-the-badge&logo=oracle&logoColor=white)  
 
 **🗂️ Version Control**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
